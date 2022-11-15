@@ -1,0 +1,1 @@
+streamlit run "E:/Asta/Projects/11-Multiple Diseases Predection/multiple disease pred.py"
